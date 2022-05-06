@@ -1,0 +1,1 @@
+deploy no vercel - https://doctor-care-nlw.vercel.app/
